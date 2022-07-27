@@ -1,0 +1,24 @@
+Tables of Global and Hemispheric Monthly Means and Zonal Annual Means
+Combined Land-Surface Air and Sea-Surface Water Temperature Anomalies (Land-Ocean Temperature Index, L-OTI)
+The following are plain-text files in tabular format of temperature anomalies, i.e. deviations from the 
+corresponding 1951-1980 means.
+
+
+Global-mean monthly, seasonal, and annual means, 1880-present, updated through most recent month: TXT, CSV
+https://data.giss.nasa.gov/gistemp/
+
+
+
+
+
+GISS Surface Temperature Analysis
+The Elusive Absolute Surface Air Temperature (SAT)
+(Updated Mar. 18, 2022)
+
+The GISTEMP analysis is based on calculating temperature anomalies, not absolute temperature. Temperature 
+anomalies are computed relative to our base period 1951-1980. The reason we work with anomalies, rather than 
+absolute temperature, is that absolute temperature varies enormously over short distances, while monthly or 
+annual temperature anomalies are representative of a much larger region. Indeed, we have shown (Hansen and 
+Lebedeff, 1987) that temperature anomalies are strongly correlated out to distances of the order of 1000 km. 
+This makes it significantly more accurate to estimate anomalies between stations and in data-sparse areas.
+https://data.giss.nasa.gov/gistemp/faq/abs_temp.html
